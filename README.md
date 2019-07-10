@@ -1,4 +1,7 @@
 # hello-world
 
-hi everyone my name is Akash Deep Chauhan.
-I like to play soccer and badminton.
+Akash Deep Chauhan  
+991495968 
+chaakash  
+Davis Campus 
+FOR SYST24444 Exercise 3
