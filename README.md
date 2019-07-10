@@ -1,2 +1,4 @@
 # hello-world
-This is to be done for exercise 3
+
+hi everyone my name is Akash Deep Chauhan.
+I like to play soccer and badminton.
